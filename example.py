@@ -1,8 +1,8 @@
 from POE import load_chat_id_map, clear_context, send_message, get_latest_message, set_auth
 
 #Auth
-set_auth('Quora-Formkey','xxxx')
-set_auth('Cookie','m-b=xxxxx')
+set_auth('Quora-Formkey','245401e88bcc85fb1357614aedc35286')
+set_auth('Cookie','m-b=yI8bX7lo-2chvuY-VgbKPA==')
 #---------------------------------------------------------------------------
 print("Who do you want to talk to?")
 print("1. Sage - OpenAI (capybara)")
